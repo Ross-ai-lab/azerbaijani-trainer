@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">AzeriStep</title>
+  <desc id="desc">A speech bubble with the Azerbaijani letter Ə</desc>
+  <defs>
+    <linearGradient id="bg" x1="9" y1="8" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2385ad"/>
+      <stop offset="1" stop-color="#0d4c6a"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#bg)"/>
+  <path d="M17.5 12.5h29A10.5 10.5 0 0 1 57 23v17a10.5 10.5 0 0 1-10.5 10.5H34l-10.5 8V50.5h-6A10.5 10.5 0 0 1 7 40V23a10.5 10.5 0 0 1 10.5-10.5Z" fill="#fff"/>
+  <text x="32" y="41.5" fill="#0d4c6a" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="800" text-anchor="middle">Ə</text>
+</svg>

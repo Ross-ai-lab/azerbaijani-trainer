@@ -1,0 +1,12 @@
+# Local-only deployment metadata
+.clasp.json
+.claspignore
+.deployment
+Code.gs
+appsscript.json
+
+# Generated build and preview output
+.preview/
+_build/
+public/
+public2/
